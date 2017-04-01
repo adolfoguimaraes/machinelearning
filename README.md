@@ -13,6 +13,6 @@ que criei para a disciplina de inteligência artificial que leciono.
 * Tensorflow
     > Material proveniente do estudo do Tensorflow. Boa parte do material de redes
     neurais está nesse material.
-    * **Tutorial 01:** Introdução ao TensorFlow
+    * **Tutorial 01:** [Introdução ao TensorFlow](Tensorflow/Tutorial01_IntroducaoTensorflow.ipynb)
     * **Tutorial 02:** Perceptron e MLP
     * **Tutorial 03:** CNN (em desenvolvimento)
