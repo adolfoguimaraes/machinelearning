@@ -6,8 +6,8 @@ que criei para a disciplina de inteligência artificial que leciono.
 
 ## Estrutura
 
-* **Aprendizagem Superviosionada**
-    > Métodos de aprendizagem supervisionada utilizando o ScikiLearn
+* **Aprendizagem Supervisionada**
+    > Métodos de aprendizagem supervisionada utilizando o ScikitLearn
     * **Tutorial 01:** Regressão linear e KNN (em desenvolvimento)
 
 * **Tensorflow**
