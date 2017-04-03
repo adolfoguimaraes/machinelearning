@@ -9,6 +9,7 @@ que criei para a disciplina de inteligência artificial que leciono.
 * **Introdução**
     > Introdução à Aprendizagem de Máquina
     * **Tutorial 01:** [*Hello World* em Aprendizagem de Máquina](Introduction/Tutorial01_HelloWorld.ipynb)
+    * **Exercício 01:** [Titanic](Introduction/Execicio01_Titanic.ipynb)
 
 * **Aprendizado Supervisionado**
     > Métodos de aprendizagem supervisionada utilizando o ScikitLearn
