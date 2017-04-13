@@ -14,7 +14,8 @@ que criei para a disciplina de inteligência artificial que leciono.
 * **Aprendizado Supervisionado**
     > Métodos de aprendizagem supervisionada utilizando o ScikitLearn
     * **Tutorial 01:** [Regressão Linear e KNN](SupervisedLearning/Tutorial01_RegressaoLinear_KNN.ipynb)
-    * **Tutorial 02:** Validação Cruzada: testando os modelos (em desenvolvimento)
+    * **Tutorial 02:** [Validação Cruzada: testando os modelos](SupervisedLearning/Tutorial02_ValidacaoCruzada.ipynb)
+    * **Exercício 01:** [KNN, Regressão Linear e Validação Cruzada](SupervisedLearning/Exercicio01_KNN_RL_CV.ipynb)
     * **Tutorial 03:** Árvores de Decisão (em desenvolvimento)
 
 * **Tensorflow**
