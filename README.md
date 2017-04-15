@@ -16,7 +16,9 @@ que criei para a disciplina de inteligência artificial que leciono.
     * **Tutorial 01:** [Regressão Linear e KNN](SupervisedLearning/Tutorial01_RegressaoLinear_KNN.ipynb)
     * **Tutorial 02:** [Validação Cruzada: testando os modelos](SupervisedLearning/Tutorial02_ValidacaoCruzada.ipynb)
     * **Exercício 01:** [KNN, Regressão Linear e Validação Cruzada](SupervisedLearning/Exercicio01_KNN_RL_CV.ipynb)
-    * **Tutorial 03:** Árvores de Decisão (em desenvolvimento)
+    * **Tutorial 03:** [Árvore de Decisão](SupervisedLearning/Tutorial03_ArvoreDeDecisao.ipynb)
+    * **Exercício 02** [Árvore de Decisão e Comparando modelos](SupervisedLearning/Exercicio02_DT_Comparacao.ipynb)
+    * **Tutorial 04** SVM (em desenvolvimento)
 
 * **Tensorflow**
     > Material proveniente do estudo do Tensorflow. Boa parte do material de redes
