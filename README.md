@@ -26,3 +26,8 @@ que criei para a disciplina de inteligência artificial que leciono.
     * **Tutorial 01:** [Introdução ao TensorFlow](Tensorflow/Tutorial01_IntroducaoTensorflow.ipynb)
     * **Tutorial 02:** [Perceptron e MLP](Tensorflow/Tutorial02_MLP.ipynb)
     * **Tutorial 03:** CNN (em desenvolvimento)
+    
+* **Gabarito dos Exercícios**
+    > Resposta das atividades passadas ao longo do curso
+    * **Exercício 01:** [Titanic](Gabarito/Exercicio01_Titanic_Gabarito.ipynb)
+    
