@@ -6,12 +6,9 @@ que criei para a disciplina de inteligência artificial que leciono.
 
 ## Material do Curso
 
-
-
-
 * **Introdução**
     > Introdução à Aprendizagem de Máquina
-    * **Tutorial 01:** [*Hello World* em Aprendizagem de Máquina](Introduction/Tutorial01_HelloWorld.ipynb) [<img src="https://cdn4.iconfinder.com/data/icons/miu/24/cloud-cloud_download-arrow-down-2-glyph-128.png">](http://google.com.br/)
+    * **Tutorial 01:** [*Hello World* em Aprendizagem de Máquina](Introduction/Tutorial01_HelloWorld.ipynb)
     * **Exercício 01:** [Titanic](Introduction/Exercicio01_Titanic.ipynb)
 
 * **Aprendizado Supervisionado**
