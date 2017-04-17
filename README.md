@@ -18,7 +18,7 @@ que criei para a disciplina de inteligência artificial que leciono.
     * **Exercício 01:** [KNN, Regressão Linear e Validação Cruzada](SupervisedLearning/Exercicio01_KNN_RL_CV.ipynb)
     * **Tutorial 03:** [Árvore de Decisão](SupervisedLearning/Tutorial03_ArvoreDeDecisao.ipynb)
     * **Exercício 02** [Árvore de Decisão e Comparando modelos](SupervisedLearning/Exercicio02_DT_Comparacao.ipynb)
-    * **Tutorial 04** SVM (em desenvolvimento)
+    * **Tutorial 04:** SVM (em desenvolvimento)
 
 * **Tensorflow**
     > Material proveniente do estudo do Tensorflow. Boa parte do material de redes
@@ -29,5 +29,5 @@ que criei para a disciplina de inteligência artificial que leciono.
     
 * **Gabarito dos Exercícios**
     > Resposta das atividades passadas ao longo do curso
-    * **Exercício 01:** [Titanic](Gabarito/Exercicio01_Titanic_Gabarito.ipynb)
+    * **Introdução >> Exercício 01:** [Titanic](Gabarito/Exercicio01_Titanic_Gabarito.ipynb)
     
