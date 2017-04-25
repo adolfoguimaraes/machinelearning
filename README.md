@@ -18,7 +18,8 @@ que criei para a disciplina de inteligência artificial que leciono.
     * **Exercício 01:** [KNN, Regressão Linear e Validação Cruzada](https://nbviewer.jupyter.org/github/adolfoguimaraes/machinelearning/blob/master/SupervisedLearning/Exercicio01_KNN_RL_CV.ipynb)
     * **Tutorial 03:** [Árvore de Decisão](https://nbviewer.jupyter.org/github/adolfoguimaraes/machinelearning/blob/master/SupervisedLearning/Tutorial03_ArvoreDeDecisao.ipynb)
     * **Exercício 02** [Árvore de Decisão e Comparando modelos](https://nbviewer.jupyter.org/github/adolfoguimaraes/machinelearning/blob/master/SupervisedLearning/Exercicio02_DT_Comparacao.ipynb)
-    * **Tutorial 04:** SVM (em desenvolvimento)
+    * **Tutorial 04:** [SVM](https://nbviewer.jupyter.org/github/adolfoguimaraes/machinelearning/blob/master/SupervisedLearning/Tutorial04_SVM.ipynb)
+    * **Exercício 03** SVM e Parâmetros (em desenvolvimento)
 
 * **Tensorflow**
     > Material proveniente do estudo do Tensorflow. Boa parte do material de redes
