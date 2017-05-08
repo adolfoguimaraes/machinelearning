@@ -21,6 +21,9 @@ que criei para a disciplina de inteligência artificial que leciono.
     * **Tutorial 04:** [SVM](https://nbviewer.jupyter.org/github/adolfoguimaraes/machinelearning/blob/master/SupervisedLearning/Tutorial04_SVM.ipynb)
     * **Exercício 03** SVM e Parâmetros (em desenvolvimento)
 
+* **Aprendizado Não-Suepervisionado**
+    * **Tutorial 01:** [Clusterização: K-MEANS e DBSCAN]((https://nbviewer.jupyter.org/github/adolfoguimaraes/machinelearning/blob/master/UnsupervisedLearning/Tutorial01_Clusterizacao.ipynb))
+
 * **Tensorflow**
     > Material proveniente do estudo do Tensorflow. Boa parte do material de redes
     neurais está nesse material.
