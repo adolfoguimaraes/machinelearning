@@ -12,7 +12,7 @@ que criei para a disciplina de inteligência artificial que leciono.
     * **Exercício 01:** [Titanic](https://nbviewer.jupyter.org/github/adolfoguimaraes/machinelearning/blob/master/Introduction/Exercicio01_Titanic.ipynb)
 
 * **Aprendizado Supervisionado**
-    > Métodos de aprendizagem supervisionada utilizando o ScikitLearn
+    > Métodos de aprendizagem supervisionada utilizando o Scikit-Learn
     * **Tutorial 01:** [Regressão Linear e KNN](https://nbviewer.jupyter.org/github/adolfoguimaraes/machinelearning/blob/master/SupervisedLearning/Tutorial01_RegressaoLinear_KNN.ipynb)
     * **Tutorial 02:** [Validação Cruzada: testando os modelos](https://nbviewer.jupyter.org/github/adolfoguimaraes/machinelearning/blob/master/SupervisedLearning/Tutorial02_ValidacaoCruzada.ipynb)
     * **Exercício 01:** [KNN, Regressão Linear e Validação Cruzada](https://nbviewer.jupyter.org/github/adolfoguimaraes/machinelearning/blob/master/SupervisedLearning/Exercicio01_KNN_RL_CV.ipynb)
@@ -22,6 +22,7 @@ que criei para a disciplina de inteligência artificial que leciono.
     * **Exercício 03** SVM e Parâmetros (em desenvolvimento)
 
 * **Aprendizado Não-Suepervisionado**
+    > Métodos de aprendizagem não-supervisionada utilizando o Scikit-Learn
     * **Tutorial 01:** [Clusterização: K-MEANS e DBSCAN](https://nbviewer.jupyter.org/github/adolfoguimaraes/machinelearning/blob/master/UnsupervisedLearning/Tutorial01_Clusterizacao.ipynb)
 
 * **Tensorflow**
