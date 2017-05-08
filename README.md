@@ -30,7 +30,7 @@ que criei para a disciplina de inteligência artificial que leciono.
    
 * ** Projetos **
     > Espaço para colocar alguns projetos resultantes do curso
-    ** **Pojeto 01: ** [Twitter Text Analysis: Hillary vs Trump](https://nbviewer.jupyter.org/github/adolfoguimaraes/machinelearning/blob/master/Projects/01_Projeto_HillaryTrump_Twitter.ipynb)
+    * **Pojeto 01: ** [Twitter Text Analysis: Hillary vs Trump](https://nbviewer.jupyter.org/github/adolfoguimaraes/machinelearning/blob/master/Projects/01_Projeto_HillaryTrump_Twitter.ipynb)
     
     
 * **Gabarito dos Exercícios**
