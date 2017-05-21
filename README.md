@@ -21,7 +21,7 @@ que criei para a disciplina de inteligência artificial que leciono.
     * **Tutorial 04:** [SVM](https://nbviewer.jupyter.org/github/adolfoguimaraes/machinelearning/blob/master/SupervisedLearning/Tutorial04_SVM.ipynb)
     * **Exercício 03** SVM e Parâmetros (em desenvolvimento)
 
-* **Aprendizado Não-Suepervisionado**
+* **Aprendizado Não-Supervisionado**
     > Métodos de aprendizagem não-supervisionada utilizando o Scikit-Learn
     * **Tutorial 01:** [Clusterização: K-MEANS e DBSCAN](https://nbviewer.jupyter.org/github/adolfoguimaraes/machinelearning/blob/master/UnsupervisedLearning/Tutorial01_Clusterizacao.ipynb)
 
