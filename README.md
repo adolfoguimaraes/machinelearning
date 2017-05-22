@@ -20,10 +20,13 @@ que criei para a disciplina de inteligência artificial que leciono.
     * **Exercício 02** [Árvore de Decisão e Comparando modelos](https://nbviewer.jupyter.org/github/adolfoguimaraes/machinelearning/blob/master/SupervisedLearning/Exercicio02_DT_Comparacao.ipynb)
     * **Tutorial 04:** [SVM](https://nbviewer.jupyter.org/github/adolfoguimaraes/machinelearning/blob/master/SupervisedLearning/Tutorial04_SVM.ipynb)
     * **Exercício 03** SVM e Parâmetros (em desenvolvimento)
+    * **Exercício 04** [All Models](https://nbviewer.jupyter.org/github/adolfoguimaraes/machinelearning/blob/master/SupervisedLearning/Exercicio04_AllModels.ipynb)
+    * **Tutorial 05:** [Redes Neurais com ScikitLearn](https://nbviewer.jupyter.org/github/adolfoguimaraes/machinelearning/blob/master/SupervisedLearning/Tutorial05_RedesNeuraisComScikitLearn.ipynb)
 
 * **Aprendizado Não-Supervisionado**
     > Métodos de aprendizagem não-supervisionada utilizando o Scikit-Learn
     * **Tutorial 01:** [Clusterização: K-MEANS e DBSCAN](https://nbviewer.jupyter.org/github/adolfoguimaraes/machinelearning/blob/master/UnsupervisedLearning/Tutorial01_Clusterizacao.ipynb)
+    * **Exercício 01:** [Clusterização de Documentos: Filmes](https://nbviewer.jupyter.org/github/adolfoguimaraes/machinelearning/blob/master/UnsupervisedLearning/Exercicio01_ClusterizacaoDocumentos.ipynb)
 
 * **Tensorflow**
     > Material proveniente do estudo do Tensorflow. Boa parte do material de redes
